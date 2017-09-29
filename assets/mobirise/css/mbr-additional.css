@@ -478,6 +478,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header3-7 .mbr-section-title,
+#header3-7 .mbr-section-subtitle {
+  text-align: center;
+}
 #features7-1 .card-subtitle {
   color: #bcbcbc;
 }
