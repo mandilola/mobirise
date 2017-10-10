@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "index2.html",
     "name": "SG centros capilares",
     "theme": {
       "name": "mobirise3",
@@ -141,7 +141,7 @@
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cabello-en-el-embarazo-2000x1115.jpg",
             "bgColor": "#a07e49",
@@ -149,7 +149,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
@@ -857,7 +857,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "4",
+            "timeout": "6",
             "slides": [
               {
                 "active": false,
@@ -875,7 +875,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PIDE CITA AQUÍ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRUEBA GRATIS</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/tim-stief-2000x1336.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -890,7 +890,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/nathan-fertig-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -900,9 +900,9 @@
                 "showTitle": true,
                 "title": "&nbsp;PELO HAPPY",
                 "showText": true,
-                "text": "Además ofrecemos soluciones para cualquier problema capilar",
+                "text": "&nbsp;Más del 85% de la población sufre algún problema del cabello.<br>Ofrecemos soluciones para cualquier patología capilar.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRIMER TRATAMIENTO GRATIS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRODUCTOS</a>"
               }
             ],
             "fullScreen": true,
@@ -1022,8 +1022,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "TRATAMIENTOS CAPILARES",
-          "meta": "El tratamiento a base de Láser y vitamina es el más eficaz, está demostrado."
+          "title": "<br><br>TRATAMIENTOS CAPILARES<br>",
+          "meta": "El tratamiento a base de Láser y vitamina es el más eficaz, está demostrado.<br><br><br>"
         },
         {
           "_name": "footer1",
@@ -1106,7 +1106,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "speed",
+              "name": "magic-stick",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -1122,7 +1122,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "apple",
+              "name": "hearth",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -1132,13 +1132,13 @@
           },
           "title3": "Vitamínico",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Una vez actuvado el riego sanguíneo del cuero cabelludo aplicamos vitaminas al cabello para conseguir revitalizar y reestructurar",
+          "caption3": "Una vez activado el riego sanguíneo del cuero cabelludo aplicamos vitaminas al cabello para conseguir revitalizar y reestructurar<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "smile-face",
+              "name": "like",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -1252,20 +1252,20 @@
           },
           "title": "EXPERTOS TRICÓLOGOS",
           "text": "<p>Nuestros especialistas con más de 35 años de experiencia te ayudarán a cuidar tu pelo para que puedas disfrutar de un cabello sano</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRIMER TRATAMIENTO GRATIS&nbsp;</a> "
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRIMER TRATAMIENTO GRATIS&nbsp;</a> "
         },
         {
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef",
+              "color": "#000000",
               "font-size": "36px"
             },
             ".mbr-author-name": {
               "color": "#ccc"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1330,13 +1330,13 @@
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0",
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true
           },
           "title": "CLIENTES SATISFECHOS",
-          "subtitle": "Nuestros clientes nos avalan. Nuestros tratamientos son únicos y funcionan, después de muchos años siguen con nosotros!"
+          "subtitle": "Nuestros clientes nos avalan. Nuestros tratamientos son únicos y funcionan, <br>después de muchos años siguen con nosotros!<br><br>"
         },
         {
           "_inherit": "pricing-table1",
@@ -1386,7 +1386,7 @@
             "fourthType": ""
           },
           "title": "PRECIOS",
-          "subtitle": "Nos gusta ser transparentes, por eso compartimos nuestros precios, no vas a encontrar otros mejores!",
+          "subtitle": "Nos gusta ser transparentes, por eso compartimos nuestros precios, no vas a encontrar otros mejores!<br>El mejor tratamiento para la caída del cabello a un precio inmejorable.<br><br>",
           "label1": "HOT!",
           "title1": "ESTANDAR",
           "subtitle1": "Description",
@@ -1461,7 +1461,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRIMER TRATAMIENTO GRATIS</a>",
           "title": "PRECIOS&nbsp;",
-          "text": "Los precios se pueden adaptar según casos y necesidades"
+          "text": "Los precios se pueden adaptar según casos y necesidades. Tenemos ofertas especiales para ti!&nbsp;"
         },
         {
           "_inherit": "social-buttons2",
